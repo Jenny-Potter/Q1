@@ -1,9 +1,8 @@
 import Vue from 'vue'
 import App from './index'
-import Room from 'q1-1/src/components'
+import Room from 'q1-1/src/components/Room'
 Vue.use(Room)
 // import Room from 'q1-1'
-console.log(Room)
 
 // add this to handle exception
 Vue.config.errorHandler = function (err) {
