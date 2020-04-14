@@ -2,6 +2,7 @@
   <div>
     <div>I am Q1main project</div>
     <Room></Room>
+    woshizhufenzhi--master
     <!-- <componentsBox></componentsBox> -->
   </div>
 </template>
