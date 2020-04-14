@@ -3,6 +3,7 @@
     <div>I am Q1main project</div>
     <Room></Room>
     woshiyigefenzhi
+    test2 woshi fenzhi testbranch
     <!-- <componentsBox></componentsBox> -->
   </div>
 </template>
